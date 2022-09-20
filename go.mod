@@ -1,4 +1,4 @@
-module github.com/ChengWu-NJ/dque
+module github.com/mech-soluitons-ltd/dque
 
 go 1.16
 
